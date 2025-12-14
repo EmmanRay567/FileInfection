@@ -3,7 +3,7 @@ This repository contains the core JUCE plugin source code.
 Build files and project generators are intentionally excluded for portability.
 
 # FileInfection
-
+> Personal Project — independently designed and developed using C++ and the JUCE framework.
 A JUCE-based audio plugin built in **C++**, focused on glitch-inspired sound processing and a custom, minimal user interface.
 
 > **Note:** The plugin UI is branded as **VirusInfection.exe**, while **FileInfection** refers to the underlying project and codebase. The naming reflects the glitch/malware-inspired aesthetic of the plugin.
