@@ -1,41 +1,38 @@
-# Prerequisites
-*.d
+# ===============================
+# JUCE / Plugin Builds
+# ===============================
+Builds/
+JuceLibraryCode/
+*.jucer.backup
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# ===============================
+# Compiled Binaries
+# ===============================
+*.exe
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+*.vst3
+*.component
+*.app
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# ===============================
+# IDE / Editor Files
+# ===============================
+.vs/
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.VC.opendb
 
-# debug information files
-*.dwo
+# ===============================
+# OS Junk
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Logs / Temp
+# ===============================
+*.log
