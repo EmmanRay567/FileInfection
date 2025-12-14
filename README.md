@@ -1,3 +1,7 @@
+## Project Notes
+This repository contains the core JUCE plugin source code.
+Build files and project generators are intentionally excluded for portability.
+
 # FileInfection
 
 A JUCE-based audio plugin built in **C++**, focused on glitch-inspired sound processing and a custom, minimal user interface.
@@ -52,7 +56,3 @@ This project was built as an independent exploration of creative audio tool deve
 - Additional glitch-style effects
 - UI visual refinements
 - Preset system support
-
-## Project Notes
-This repository contains the core JUCE plugin source code.
-Build files and project generators are intentionally excluded for portability.
