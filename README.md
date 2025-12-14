@@ -21,6 +21,10 @@ FileInfection is an experimental audio plugin designed to explore real-time audi
 - Minimal, performance-focused design
 
 ---
+## Project Notes
+This repository contains the core JUCE plugin source code.
+Build files and project generators are intentionally excluded for portability.
+
 
 ## Technologies Used
 
