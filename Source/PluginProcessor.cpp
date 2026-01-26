@@ -1,5 +1,5 @@
-#include "PluginProcessor.h"
-#include "PluginEditor.h"
+#include "PluginProcessor.h" // this is saying include the header file where classes and functions were declare
+#include "PluginEditor.h" // same for editor
 
 //==============================================================================
 // Helper function to define the parameters
